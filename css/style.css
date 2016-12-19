@@ -1,0 +1,64 @@
+.jumbotron
+{
+    background-image:url(../backgroundfix.png);
+    background-attachment:fixed;
+    min-height:900px;
+    margin-bottom:0px;
+}
+
+.alt1
+{
+    background: linear-gradient(#e67e22,#e67e22,#e67e22,#e67e22, white);
+    min-height:400px;
+}
+
+.games
+{
+    background:#303030;
+    color:#e67e22;
+}
+
+#playerTable
+{
+    margin: auto;
+    width:90%;
+}
+
+.selectForm
+{
+    width: 200
+px;
+}
+
+.alt2
+{
+    background:#e67e22;
+    background: linear-gradient(#303030, #e67e22);
+    min-height:100px;
+    color:#303030;
+    text-align:center;
+}
+
+
+.padding
+{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#userForm{
+    display:none;
+}
+
+#mailingList{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+#foot{
+    color: white;
+}
+
+#hide{
+    display:none;
+}
